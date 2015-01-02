@@ -1,0 +1,15 @@
+{
+  "name": "LeChiffre",
+  "version": "0.0.0",
+  "authors": [
+    "Jordan Checkman"
+  ],
+  "description": "Vesper Clone in AngularJS",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "lodash": "~2.4.1",
+    "angular": "~1.3.8"
+  }
+}
