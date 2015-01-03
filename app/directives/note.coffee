@@ -1,4 +1,4 @@
 le.directive 'note', ->
 	restrict: 'E'
-	templateUrl: 'note.html'
+	templateUrl: 'templates/note.html'
 	scope: true

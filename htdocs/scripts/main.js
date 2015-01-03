@@ -4,7 +4,8 @@ le = angular.module('lechiffre', []);
 
 le.directive('note', function() {
   return {
-    templateUrl: 'note.html',
+    restrict: 'E',
+    templateUrl: 'templates/note.html',
     scope: true
   };
 });
