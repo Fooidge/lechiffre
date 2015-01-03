@@ -1,1 +1,1 @@
-lechiffre  = angular.module 'lechiffre', []
+le = angular.module 'lechiffre', []
